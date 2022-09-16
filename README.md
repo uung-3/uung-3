@@ -1,20 +1,32 @@
-### Hi there 👋
+# 공지
+
+## 1차 수행평가(30%)
+단원 주제 맡아 발표하기(15분~20분 발표 & 5분 정도 예상 질문 준비)
+
+## 2차 수행평가(20%)
+퀴즈(HTML/CSS/JS/웹서버/데이터베이스)
+
+## 3차 수행평가(50%)
+팀플 :  웹 프로그래밍 해보기 (노션 자기소개 페이지 재현 or 웹 게임 or 원하는 것 어떤것이던 3명 팀, 단 자기소개 페이지는 2명으로 제한)
 
 
-# Stacks
-<img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> 
+## 자기평가서 작성 예시
 
-<!--
-**uung-3/uung-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+(구체적이고 개인적인 내용, 똑같거나 비슷 x)
 
-Here are some ideas to get you started:
+1. 동기이유(100자)
+- 과목에서 배운 내용중 _에 대해 더 알고 싶어서
+- _의 원리에 대해 이해하고 다른 적용에 대해 알 수 있는 강좌라서
+- _ 시험 중 호기심이 생긴 내용의 실제 적용 방식을 알아보기 위해
+- 강좌를 통해 _원리를 실제 적용하는 실험을 진행하기 위해
+-  _ 수행평가 중 알게 된 사실을 심도 있기 탐구하기 위해
+- 동아리에서 _ 과정 중 나온 _을 읽다가 관심이 생긴 _의 이유를 정리해서 포트폴리오를 작성하기 위해
+- _ 이론이 설득력이 부족하다고 생각해 관련된 이론들을 살펴보기 위해
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+2. 새롭게 알게된 점(300자)
+
+3. 결과(배우고 느낀점)(300자)
+
+
+
